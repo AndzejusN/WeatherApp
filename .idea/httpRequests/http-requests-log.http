@@ -1,0 +1,58 @@
+GET http://localhost:8000/weather/long-term/${{matchCode}}
+
+###
+
+GET https://api.meteo.lt/v1/places/${{matchCode}}/forecasts/long-term
+
+###
+
+GET http://localhost:8000/weather/long-term/
+
+###
+
+GET https://api.meteo.lt/v1/places/vilnius/forecasts/long-term
+
+<> 2021-11-18T172710.200.json
+
+###
+
+GET http://localhost:8000/weather/long-term/
+
+###
+
+GET https://api.meteo.lt/v1/places
+
+<> 2021-11-18T172549.200.json
+
+###
+
+GET https://api.meteo.lt/v1/places
+
+<> 2021-11-18T172506.200.json
+
+###
+
+GET https://api.meteo.lt/v1/places
+
+<> 2021-11-12T021303.200.json
+
+###
+
+GET https://api.meteo.lt/v1/places
+
+<> 2021-11-12T021252.200.json
+
+###
+
+GET https://api.meteo.lt/v1/places
+
+<> 2021-11-12T021237.200.json
+
+###
+
+GET https://api.meteo.lt/v1/places
+
+<> 2021-11-12T021145.200.json
+
+###
+
