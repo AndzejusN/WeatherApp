@@ -97,7 +97,7 @@ const searchCity = async searchText => {
             matchList.innerHTML = '';
         }
     }
-    const loadData = document.getElementById('some-info').innerHTML = "";
+    document.getElementById('some-info').innerHTML = "";
 }
 
 
