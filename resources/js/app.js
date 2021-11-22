@@ -100,5 +100,4 @@ const searchCity = async searchText => {
     document.getElementById('some-info').innerHTML = "";
 }
 
-
 search.addEventListener('input',() =>  searchCity(search.value));
