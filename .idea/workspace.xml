@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6745f454-8653-4408-8a5e-8a9b1b568421" name="Changes" comment="New commit4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6745f454-8653-4408-8a5e-8a9b1b568421" name="Changes" comment="New commit5">
       <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +104,7 @@
       <workItem from="1637511623353" duration="5512000" />
       <workItem from="1637594522142" duration="675000" />
       <workItem from="1637595221480" duration="300000" />
-      <workItem from="1637595834839" duration="440000" />
+      <workItem from="1637595834839" duration="686000" />
     </task>
     <task id="LOCAL-00001" summary="New commit">
       <created>1637594992311</created>
@@ -135,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637595370816</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New commit5">
+      <created>1637596288738</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637596288738</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +163,7 @@
     <MESSAGE value="New commit" />
     <MESSAGE value="New commit3" />
     <MESSAGE value="New commit4" />
-    <option name="LAST_COMMIT_MESSAGE" value="New commit4" />
+    <MESSAGE value="New commit5" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit5" />
   </component>
 </project>

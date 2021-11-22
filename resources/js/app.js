@@ -72,7 +72,7 @@ const searchCity = async searchText => {
         return city.name.match(regex) || city.code.match(regex);
     });
 
-    matches = matches.slice(0,10);
+    matches = matches.slice(0,5);
 
     for  (let match of matches) {
         let button = document.createElement('button');
