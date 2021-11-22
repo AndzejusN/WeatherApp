@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6745f454-8653-4408-8a5e-8a9b1b568421" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Calculator/.idea/2021_09_30.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Events_JS/.idea/Events_JS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Passanger_Counter_Java/.idea/2021_09_30.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/.idea/Sass_web_site.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/sass/_custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/sass/_customVariables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/sass/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Sass_web_site/services.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Stop_Watch/.idea/Encapsulation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherApp/.idea/WeatherApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherApp/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherApp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../WeatherApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nodemon.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/sass/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +20,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="2" />
@@ -54,13 +39,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.10.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.10.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2021.2.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rainl\Desktop\WeatherApp_search_by_city\resources\sass" />
+    </key>
   </component>
   <component name="RunManager" selected="HTTP Request.All in generated-requests">
     <configuration name="All in generated-requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
@@ -114,6 +106,7 @@
       <workItem from="1637490617385" duration="5599000" />
       <workItem from="1637500728340" duration="4555000" />
       <workItem from="1637511623353" duration="5512000" />
+      <workItem from="1637594522142" duration="412000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,5 @@
 window.axios = require('axios');
-window.bootstrap = require('bootstrap');
+// window.bootstrap = require('bootstrap');
 
 document.addEventListener('DOMContentLoader',function(){
     fetch('/weather/places').then(response => response.json())
