@@ -33,8 +33,4 @@ router.get(`/long-term/:place`, function(req, res, next)
 });
 
 
-router.get('*', (req, res) =>{
-	res.send("This page not found, please check address!");
-})
-
 module.exports = router;
