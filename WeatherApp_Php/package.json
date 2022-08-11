@@ -1,0 +1,32 @@
+{
+  "name": "weather/app",
+  "version": "1.1.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "npm run assets:development",
+    "development": "mix",
+    "watch": "mix watch",
+    "prod": "npm run assets:production",
+    "production": "mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "Beerware",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "laravel-mix": "^6.0.6",
+    "lodash.debounce": "^4.0.8"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.42.1",
+    "sass-loader": "^12.1.0"
+  }
+}

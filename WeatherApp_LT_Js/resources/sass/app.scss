@@ -1,0 +1,20 @@
+@import "~bootswatch/dist/morph/variables";
+@import "~bootstrap/scss/bootstrap";
+@import "~bootswatch/dist/morph/bootswatch";
+
+
+img {
+  opacity: 0.7;
+  height: 100px;
+  width: 130px;
+  margin-right: 50px;
+}
+
+#match-list {
+  height: 50px;
+  width: 100%;
+}
+
+p{
+  font-size: 13.5px;
+}
